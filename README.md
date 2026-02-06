@@ -14,6 +14,9 @@
 ## 🌐 Live Demo
 
 ### 🔗 **[https://hackthon-ai-15845.web.app](https://hackthon-ai-15845.web.app)**
+## 🌐 Youtube Demo
+
+### 🔗 **https://youtu.be/itTFllnrNuE?si=xL3QvKQDZUgniI00**
 
 ---
 
@@ -296,3 +299,4 @@ For issues or questions, please open a GitHub issue or contact the team.
 ---
 
 **Made with ❤️ for AI Fusion Hackathon 2026**
+
