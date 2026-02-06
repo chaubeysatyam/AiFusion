@@ -88,7 +88,7 @@
 |------------|---------|
 | **Firebase Authentication** | Email/password user authentication |
 | **Cloud Firestore** | Real-time NoSQL database with `onSnapshot` |
-| **Firebase Storage** | File and image storage |
+| **Cloudiary Storage** | File and image storage |
 | **Firebase Hosting** | Static hosting with global CDN |
 
 ### External APIs & Services
@@ -299,4 +299,5 @@ For issues or questions, please open a GitHub issue or contact the team.
 ---
 
 **Made with ❤️ for AI Fusion Hackathon 2026**
+
 
